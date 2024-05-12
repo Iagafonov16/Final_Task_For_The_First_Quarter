@@ -1,0 +1,15 @@
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\bin\Debug\net8.0\SolvingTheTask.exe
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\bin\Debug\net8.0\SolvingTheTask.deps.json
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\bin\Debug\net8.0\SolvingTheTask.runtimeconfig.json
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\bin\Debug\net8.0\SolvingTheTask.dll
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\bin\Debug\net8.0\SolvingTheTask.pdb
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.AssemblyInfoInputs.cache
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.AssemblyInfo.cs
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.csproj.CoreCompileInputs.cache
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.sourcelink.json
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.dll
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\refint\SolvingTheTask.dll
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.pdb
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\SolvingTheTask.genruntimeconfig.cache
+C:\Users\Igor Agafonov\Desktop\Final_Task_For_The_First_QuarterPublic\SolvingTheTask\obj\Debug\net8.0\ref\SolvingTheTask.dll
